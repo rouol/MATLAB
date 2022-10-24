@@ -1,0 +1,1 @@
+mandelbrot(1000, 50)
